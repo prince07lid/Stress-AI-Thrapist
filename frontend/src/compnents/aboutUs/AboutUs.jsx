@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../navbar/Navbar';
-import passportImg from "./1759217369576-princelidhoriya_PassportSizePhoto.jpg";
+import passportImg from "pastportsizeP.jpg";
 const AboutUs = () => {
   return (
     <>
